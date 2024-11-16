@@ -1,2 +1,3 @@
 # Mi-primer-proyecto
-Es un ejemplo
+# Esto es simplemente un ejemplo
+# Espero salga bien
